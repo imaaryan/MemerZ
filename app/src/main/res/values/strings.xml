@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MemerZ</string>
+    <string name="sharebutton">Share</string>
+    <string name="nextButton">Next</string>
+</resources>
